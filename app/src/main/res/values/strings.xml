@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">CustomAdaptar</string>
+
+    <string-array name="country_name">
+        <item>	Afghanistan</item>
+        <item>	Albania</item>
+        <item>	Algeria</item>
+        <item>	Andorra</item>
+        <item>	Angola</item>
+        <item>	Argentina</item>
+        <item>	Armenia</item>
+        <item>	Australia</item>
+        <item>	Austria</item>
+        <item>	Azerbaijan</item>
+        <item>	Bahamas</item>
+        <item>	Bahrain</item>
+        <item>	Bangladesh</item>
+        <item>	Barbados</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>This Details is from Afghanistan</item>
+        <item>This Details is from	Albania</item>
+        <item>This Details is from	Algeria</item>
+        <item>This Details is from	Andorra</item>
+        <item>This Details is from	Angola</item>
+        <item>This Details is from	Argentina</item>
+        <item>This Details is from	Armenia</item>
+        <item>This Details is from	Australia</item>
+        <item>This Details is from	Austria</item>
+        <item>This Details is from	Azerbaijan</item>
+        <item>This Details is from	Bahamas</item>
+        <item>This Details is from	Bahrain</item>
+        <item>This Details is from	Bangladesh</item>
+        <item>This Details is from	Barbados</item>
+    </string-array>
 </resources>
